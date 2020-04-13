@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <title>coba</title>
+    <style>
         .tulisan{
             font-size : 28px;
             font-family : arial;
